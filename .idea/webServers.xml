@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d126535-3699-49f5-90af-0f3e11aca264" name="ABB" url="http://79.99.164.134">
+        <fileTransfer host="79.99.164.134" port="21" rootFolder="/public_html/www/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a83f6ea7-529a-466d-87af-bb1e4de8d911" name="ADM" url="http://79.99.164.134">
+        <fileTransfer host="79.99.164.134" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="52dd1936-5d11-4038-a90e-b550f88b89dd" name="API" url="http://79.99.164.134">
+        <fileTransfer host="79.99.164.134" port="21" rootFolder="/public_html/www/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cc196a1e-b710-4c3c-98ad-004acd0cabb6" name="MDM" url="http://79.99.164.134">
+        <fileTransfer host="79.99.164.134" port="21" rootFolder="/public_html/www/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
